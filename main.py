@@ -2,8 +2,8 @@ import datetime
 from selenium import webdriver
 
 RESHEDULE_COMMENT = 'earlier appointment opened up'
-USERNAME = 'zyskowsk'
-PASSWORD = 'Jussiisgod1!'
+USERNAME = 'USERNAME'
+PASSWORD = 'PASSWORD'
 PHANTOMJS_PATH = '/usr/local/bin/phantomjs'
 RESERVE = True
 
